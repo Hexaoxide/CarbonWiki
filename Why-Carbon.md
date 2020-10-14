@@ -13,7 +13,7 @@ Seeing several downfalls in popular chat plugins, as well as features which serv
 
 ## This plugin looks huge, and I need something simple and lightweight!
 
-Carbon has been designed in order to be incredibly lightweight, and yet still offer all the features server owners need. As a result, certian heavier features are offered as extensions to the main plugin, extensions which greatly increase what Carbon is capable of and can even allow you to remove large plugins that are dedicated to features that Carbon extensions already cover seamlessly.
+Carbon has been designed in order to be incredibly lightweight, and yet still offer all the features server owners need. As a result, certain heavier features are offered as extensions to the main plugin, extensions which greatly increase what Carbon is capable of and can even allow you to remove large plugins that are dedicated to features that Carbon extensions already cover seamlessly.
 For more on extensions, see [here](Extensions)
 
 ## What features does it have?
